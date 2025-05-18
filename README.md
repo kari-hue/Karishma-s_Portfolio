@@ -2,7 +2,7 @@
 Passionate data enthusiast with a robust background in data and business analytics and a strong interest in using datadriven
 insights to tackle real-world challenges.
 
-# Customer Segmentation - <a href="[#the-header](https://github.com/kari-hue/MachineLearningModels/blob/main/Customer%20Segmentation/Customer%20Segmentation%20(1).ipynb)">Link to the project</a>
+# 1. Customer Segmentation - ##### <a href="[#the-header](https://github.com/kari-hue/MachineLearningModels/blob/main/Customer%20Segmentation/Customer%20Segmentation%20(1).ipynb)">Link to the project</a>
 
 This is a complete end to end machine learning project accomplished by analyzing a dataset that is based on transaction taken form a UK-based retailer. The dataset is present in [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail). The primary objective of the project is to amplify the efficiency of marketing strategies and boost sales through <b>Customer Segmentation</b>. For this purpose,I used the concept of <b>K-Means Clustering</b> algorithm.
 
@@ -15,10 +15,14 @@ This is a complete end to end machine learning project accomplished by analyzing
 * <b> Cluster Analysis & Evaluation</b>: Analyze and profile of each cluster to develop targeted markting strategies and assess the quality of the clusters formed.
 
 ### Choosing the best cluster using Elbow Method
-![screenshot](Elbow_method.png)
 
-### Segmenting the customers
-![screenshot](Clustering.png)
+<div class="grid" markdown>
+<img src="Elbow_method.png" alt="Alt Text" width="500" height="300">
+
+</div>
+
+<img src="Clustering.png" alt="Alt Text" width="400" height="200">
+
 
 ### Profiling the customers
 ![screenshot](Customer_Profiling.png)
@@ -48,15 +52,30 @@ This is a PowerBI project performed on a finance dataset taken from the american
 * Uses Time Intelligence DAX functions to calculate MTD, YTD values
 * Advanced and clear visulizations are used with clean labels and tooltips
 * Wide range of filters available in the project
-![screenshot](Finance_summary.png)
-![screenshot](Finance_details.png)
-![screenshot](Finance_overview.png)
+<div class="grid" markdown>
+<img src="Finance_summary.png" alt="Alt Text" width="500" height="300">
+<img src="Finance_details.png" alt="Alt Text" width="500" height="300">
+</div>
+<p align="center">
+<img src="Finance_overview.png" alt="Alt Text" width="500" height="300">
+  </p>
 
+# Election portal visualization project 
+<b>About the project :</b> “Election portal for local election in Nepal” is visualization project whose main aim is to leverage the data collected from the local election 2079 along with the data from the past local election in order to create an interactive dashboard.
 
-# Buyer segmentation - Excel Sheet
-A simple way of leveraging excel's visualization project by sengmenting customer on different factors such as gender, geographical regions, purhcase timing, on the basis of pricepoint
-![screenshot](customer_segmentation.png)
+<b>Task performed:</b>
+* Data collection - Pdfs, web scraping using Beautiful Soup
+* Data Analysis - Vote Difference, Gender Wise Analysis, Age wise Analysis, Voteswing
+* Data Visualization - Comparison chart, Tables, Sunbrust Chart all using python plotly
 
+ <b> Results </b>
+ #### Vote Representation
+<img src="barchart_1.png" alt="Alt Text" width="600" height="300">
 
+ #### Genderwise Representation
+ ![screenshot](comparision_chart.png)
+
+ #### Vote swing Representation
+<img src="sankey_1.png" alt="Alt Text" width="600" height="300">
 
 # Coffee Leaf Detection System- project plus report
