@@ -21,6 +21,7 @@ This is a complete end to end machine learning project accomplished by analyzing
 
 </div>
 
+### Distribution of three clusters
 <img src="Clustering.png" alt="Alt Text" width="400" height="200">
 
 
@@ -59,6 +60,18 @@ This is a PowerBI project performed on a finance dataset taken from the american
 <p align="center">
 <img src="Finance_overview.png" alt="Alt Text" width="500" height="300">
   </p>
+  
+# Sales Dashboard
+<div class="grid" markdown>
+<img src="Car_Sales_Overview.png" alt="Alt Text" width="500" height="300">
+<img src="sales_details.png" alt="Alt Text" width="500" height="300">
+</div>
+
+# Revenue Dashboard
+<div class="grid" markdown>
+<img src="Revenue_Analysis.png" alt="Alt Text" width="500" height="300">
+<img src="Customer_aging_analysis.png" alt="Alt Text" width="500" height="300">
+</div>
 
 # Election portal visualization project 
 <b>About the project :</b> “Election portal for local election in Nepal” is visualization project whose main aim is to leverage the data collected from the local election 2079 along with the data from the past local election in order to create an interactive dashboard.
