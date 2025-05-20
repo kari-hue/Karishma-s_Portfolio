@@ -1,9 +1,7 @@
-# Karishma's Portfolio
 Passionate data enthusiast with a robust background in data and business analytics and a strong interest in using datadriven
 insights to tackle real-world challenges.
 
 # Analysis and Visualization Projects
-
 
 ## 1. Financial Loan Analysis Dashboard
 [Link to the project](https://github.com/kari-hue/PowerBI-projects/tree/main/Financial%20Loan%20Dashboard)
@@ -18,14 +16,16 @@ insights to tackle real-world challenges.
 * Wide range of filters available in the project
 
 ### Results Screenshots  
-<div class="grid" markdown>
-<img src="Finance_summary.png" alt="Alt Text" width="500" height="300">
-<img src="Finance_details.png" alt="Alt Text" width="500" height="300">
-</div>
 
-<p align="center">
+#### Summary
+<img src="Finance_summary.png" alt="Alt Text" width="500" height="300">
+
+#### Details
+<img src="Finance_details.png" alt="Alt Text" width="500" height="300">
+
+#### Overview
 <img src="Finance_overview.png" alt="Alt Text" width="500" height="300">
-  </p>
+
   
 ## 2. Sales Dashboard
 [Link to the project](https://github.com/kari-hue/PowerBI-projects/tree/main/Car%20sales%20Dashboard)
@@ -39,10 +39,12 @@ insights to tackle real-world challenges.
 * Use of calculated field and measures
   
 ### Results Screenshots
-<div class="grid" markdown>
+#### Sales Overview
 <img src="Car_Sales_Overview.png" alt="Alt Text" width="500" height="300">
+
+#### Sales Details
 <img src="sales_details.png" alt="Alt Text" width="500" height="300">
-</div>
+
 
 ## 3. Election portal visualization project 
 <b>About the project :</b> “Election portal for local election in Nepal” is visualization project whose main aim is to leverage the data collected from the local election 2079 along with the data from the past local election in order to create an interactive dashboard.
@@ -52,12 +54,12 @@ insights to tackle real-world challenges.
 * Data Analysis - Vote Difference, Gender Wise Analysis, Age wise Analysis, Voteswing
 * Data Visualization - Comparison chart, Tables, Sunbrust Chart all using python plotly
 
- #### Results 
+ ### Result Screenshot
  ##### Vote Representation
 <img src="barchart_1.png" alt="Alt Text" width="600" height="300">
 
  ##### Genderwise Representation
- ![screenshot](comparision_chart.png)
+ <img src="comparision_chart.png" alt="Alt Text" width="1000" height="300">
 
  ##### Vote swing Representation
 <img src="sankey_1.png" alt="Alt Text" width="600" height="300">
