@@ -18,12 +18,15 @@ insights to tackle real-world challenges.
 ### Results Screenshots  
 
 #### Summary
+
 <img src="Finance_summary.png" alt="Alt Text" width="500" height="300">
 
 #### Details
+
 <img src="Finance_details.png" alt="Alt Text" width="500" height="300">
 
 #### Overview
+
 <img src="Finance_overview.png" alt="Alt Text" width="500" height="300">
 
   
@@ -40,9 +43,11 @@ insights to tackle real-world challenges.
   
 ### Results Screenshots
 #### Sales Overview
+
 <img src="Car_Sales_Overview.png" alt="Alt Text" width="500" height="300">
 
 #### Sales Details
+
 <img src="sales_details.png" alt="Alt Text" width="500" height="300">
 
 
@@ -56,12 +61,15 @@ insights to tackle real-world challenges.
 
  ### Result Screenshot
  ##### Vote Representation
+ 
 <img src="barchart_1.png" alt="Alt Text" width="600" height="300">
 
  ##### Genderwise Representation
+ 
  <img src="comparision_chart.png" alt="Alt Text" width="1000" height="300">
 
  ##### Vote swing Representation
+ 
 <img src="sankey_1.png" alt="Alt Text" width="600" height="300">
 
 # Data Analyis and Machine Learning project
