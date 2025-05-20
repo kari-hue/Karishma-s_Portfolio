@@ -59,16 +59,16 @@ insights to tackle real-world challenges.
 * Data Analysis - Vote Difference, Gender Wise Analysis, Age wise Analysis, Voteswing
 * Data Visualization - Comparison chart, Tables, Sunbrust Chart all using python plotly
 
- ### Result Screenshot
- #### Vote Representation
+### Result Screenshot
+#### Vote Representation
  
 <img src="barchart_1.png" alt="Alt Text" width="600" height="300">
 
- #### Genderwise Representation
- 
- <img src="comparision_chart.png" alt="Alt Text" width="1000" height="300">
+#### Genderwise Representation
 
- #### Vote swing Representation
+<img src="comparision_chart.png" alt="Alt Text" width="1000" height="300">
+
+#### Vote swing Representation
  
 <img src="sankey_1.png" alt="Alt Text" width="600" height="300">
 
