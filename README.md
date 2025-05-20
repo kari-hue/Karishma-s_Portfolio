@@ -11,14 +11,13 @@ insights to tackle real-world challenges.
 <b> About the project:</b> This is a visualization project accomplished using PowerBI, on a finance dataset taken from the American household.
 
 ### Task accomplished in this project
+* Analyzed Good vs Bad loan issued, Loan Status, Loan Amount issued by states, Loan Amount issued by month, Loan Amount issued by Loan Ownership
 * Used Time Intelligence DAX functions to calculate MTD, YTD, QTD values
 * Created new calculated field and measures using IF(), SWITCH(), RANK() functions
 * Advanced and clear visulizations(Bar graph, area map, geographical map, donout chart) are used with clean labels and tooltips
 * Wide range of filters available in the project
 
-
-### Results Screenshots
-  
+### Results Screenshots  
 <div class="grid" markdown>
 <img src="Finance_summary.png" alt="Alt Text" width="500" height="300">
 <img src="Finance_details.png" alt="Alt Text" width="500" height="300">
@@ -94,19 +93,19 @@ We can infer and draw some conclusions about the clusters:
 <b> suggestion:</b> We can address them as almost churning customers - Throw reminder notifications on a daily basis, alluring discounts, pushing a variety low low-value products
 
 #### Results Screenshots
-### Choosing the best cluster using Elbow Method
+##### Choosing the best cluster using Elbow Method
 
 <div class="grid" markdown>
 <img src="Elbow_method.png" alt="Alt Text" width="500" height="300">
 
 </div>
 
-#### Distribution of three clusters
+##### Distribution of three clusters
 <img src="Clustering.png" alt="Alt Text" width="400" height="200">
 
 
-#### Profiling the customers
+##### Profiling the customers
 ![screenshot](Customer_Profiling.png)
 
  
-## Coffee Leaf Detection System- project plus report
+
